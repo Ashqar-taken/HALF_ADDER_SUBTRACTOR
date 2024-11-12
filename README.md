@@ -65,7 +65,8 @@ and(bo,~a,b);
 endmodule
 ```
 
-Developed by: RegisterNumber:*/
+Developed by:Ashqar Ahamed S T 
+RegisterNumber:24004759
 
 **RTL Schematic**
 ![Exp_3](https://github.com/user-attachments/assets/74a5e50b-827b-43fc-938f-5fd768187d87)
